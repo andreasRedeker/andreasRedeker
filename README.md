@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Andreas from Munich 👋
 
 <!--
 **andreasRedeker/andreasRedeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
